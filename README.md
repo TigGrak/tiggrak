@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">THIS IS TIGGRAK</h1>
 
-<!--
-**TigGrak/tiggrak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://komarev.com/ghpvc/?username=tiggrakg&label=Profile%20views&color=0e75b6&style=flat" />
+</div>
+<br>
 
-Here are some ideas to get you started:
+## ABOUT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">HELLO, I am Tiggrak</h1>
+
+#### ABOUT ME [MY WEBSITE](https://tiggrak.gitee.io/)
+
+#### MY [BLOG](https://tiggrak.gitee.io/blog/)
+
+<br>
+<br>
+
+## MY STATS
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tiggrak&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tiggrak&theme=tokyonight">
+</div>
+
+<br>
+<br>
+<br>
+
+## MY CONTRIBUTION
+
+![](https://activity-graph.herokuapp.com/graph?username=tiggrak&hide_border=true&theme=github)
