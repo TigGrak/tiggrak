@@ -5,16 +5,6 @@
 </div>
 <br>
 
-## ABOUT
-
-<h3 align="center">HELLO, I am Tiggrak</h1>
-
-#### ABOUT ME [MY WEBSITE](https://tiggrak.gitee.io/)
-
-#### MY [BLOG](https://tiggrak.gitee.io/blog/)
-
-<br>
-<br>
 
 ## MY STATS
 
