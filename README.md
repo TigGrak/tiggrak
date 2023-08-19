@@ -16,7 +16,3 @@
 <br>
 <br>
 <br>
-
-## MY CONTRIBUTION
-
-![](https://activity-graph.herokuapp.com/graph?username=tiggrak&hide_border=true&theme=github)
